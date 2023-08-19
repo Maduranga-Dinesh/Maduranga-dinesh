@@ -22,7 +22,7 @@ OTHER <br>
 ⇢ Search Engine Optimization.<br>
 ⇢ Google Analytics and Console.<br>
 ⇢ Google Tag Manager.<br>
-⇢ Google Campaigns.<br>
+⇢ Campaigns set up & optimizations.<br>
 ⇢ Google Pixels.<br>
 ⇢ VHDL ( The VHSIC Hardware Description Language ).<br>
 ⇢ NFT<br>
