@@ -25,7 +25,7 @@ OTHER <br>
 ⇢ Campaigns set up & optimizations.<br>
 ⇢ Google Pixels.<br>
 ⇢ VHDL ( The VHSIC Hardware Description Language ).<br>
-⇢ NFT<br>
+⇢ NFT Collection Design and Generate<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Maduranga-Dinesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
