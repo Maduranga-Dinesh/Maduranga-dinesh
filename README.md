@@ -2,7 +2,7 @@
 
 # About me
 
-⚡ Fun fact: I love to learn about the behind-the-scenes aspects of everything and work in silence.<br>📚 I’m currently learning things related to computer engineering.<br>🌀 I believe in: Keep Learning | Never Give Up
+⚡ Fun fact: I am a Human.<br>📚 I’m currently learning things related to computer engineering.<br>🌀 I believe in: Keep Learning | Never Give Up
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madurangadineshkularathna) 
