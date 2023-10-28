@@ -28,8 +28,14 @@ LANGUAGES<br>
 # 💻 My Projects
 | Project                                              | Repository                                                                            |   
 |------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Web template design ( Bootstrap & CSS )              | [Live](https://maduranga-dinesh.github.io/Boostrap-and-CSS-Grid-Simple-Web/)          | 
-   
+| Web template design ( Bootstrap & CSS )              | [Live](https://maduranga-dinesh.github.io/Boostrap-and-CSS-Grid-Simple-Web/)          |
+| AI Agent Technology JADE Java System                 | [Repository](https://github.com/Maduranga-Dinesh/AI-Agent_Technology_JADE-Java-System)|
+| Embedded system Oxygen Machine Concentrator          | [Repository](https://github.com/Maduranga-Dinesh/Embedded-system-Oxygen-Machine-Concentrator)|
+| IOT Visitors Counter Telegram-Bot ( Node MCU )       | [Repository](https://github.com/Maduranga-Dinesh/IOT-Visitors-Counter-Telegram-Bot)   |
+| AI Water Quality Prediction NEURAL NETWORK& FUZZY    | [Repository](https://github.com/Maduranga-Dinesh/Water-Quality-Prediction-NEURAL-NETWORK-AND-FUZZY-LOGIC) |
+| Chemical Laboratory System ( Java Swing )            | [Repository](https://github.com/Maduranga-Dinesh/Chemical-Laboratory-System-Java-Ant) |
+| SLT Radio Transmission Data Logger ( Arduino )       | [Repository](https://github.com/Maduranga-Dinesh/FM-Radio-Transmission-Data-Logger)   |
+| NFT Generator (With Rarity - Up to 10000 collection) | [Repository](https://github.com/Maduranga-Dinesh/NFT-Generator)                       |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Maduranga-Dinesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
