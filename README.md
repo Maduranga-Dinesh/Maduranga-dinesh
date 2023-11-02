@@ -6,7 +6,7 @@
 
 # 💻 Tech Stack:
 LANGUAGES<br>
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![GO](https://img.shields.io/badge/Go-blue) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
 <br>HOSTING/SaaS <br> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) <br> FRAMEWORKS, PLATFORMS & LIBRARIES <br> 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
@@ -37,6 +37,9 @@ LANGUAGES<br>
 | Chemical Laboratory System ( Java Swing )            | [Repository](https://github.com/Maduranga-Dinesh/Chemical-Laboratory-System-Java-Ant) |
 | SLT Radio Transmission Data Logger ( Arduino )       | [Repository](https://github.com/Maduranga-Dinesh/FM-Radio-Transmission-Data-Logger)   |
 | NFT Generator (With Rarity - Up to 10000 collection) | [Repository](https://github.com/Maduranga-Dinesh/NFT-Generator)                       |
+| Mixing Machine Processor Design ( VHDL )             | [Repository](https://github.com/Maduranga-Dinesh/Processor-Design-VHDL)               |
+| Chemical Laboratory CRUD ( Java )                    | [Repository](https://github.com/Maduranga-Dinesh/Chemical-Laboratory-System-Java-Ant) |
+| Water Quality Prediction ( Neural Networks & Fuzzy ) | [Repository](https://github.com/Maduranga-Dinesh/Water-Quality-Prediction-NEURAL-NETWORK-AND-FUZZY-LOGIC) |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Maduranga-Dinesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
