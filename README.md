@@ -29,6 +29,7 @@ LANGUAGES<br>
 | Project                                              | Repository                                                                            |   
 |------------------------------------------------------|---------------------------------------------------------------------------------------|
 | Web template design ( Bootstrap & CSS )              | [Live](https://maduranga-dinesh.github.io/Boostrap-and-CSS-Grid-Simple-Web/)          |
+| Secrete generator ( Express js )                     | [Repository](https://github.com/Maduranga-Dinesh/Secret-generator-simple-express/tree/master) |
 | AI Agent Technology JADE Java System                 | [Repository](https://github.com/Maduranga-Dinesh/AI-Agent_Technology_JADE-Java-System)|
 | Embedded system Oxygen Machine Concentrator          | [Repository](https://github.com/Maduranga-Dinesh/Embedded-system-Oxygen-Machine-Concentrator)|
 | IOT Visitors Counter Telegram-Bot ( Node MCU )       | [Repository](https://github.com/Maduranga-Dinesh/IOT-Visitors-Counter-Telegram-Bot)   |
