@@ -26,7 +26,7 @@ LANGUAGES<br>
 ⇢ VHDL ( The VHSIC Hardware Description Language ).<br>
 ⇢ NFT Collection Design and Generate<br>
 # 💻 My Projects
-| Project                                              | Repository                                                                            |   
+| Project Names                                        | Repository                                                                            |   
 |------------------------------------------------------|---------------------------------------------------------------------------------------|
 | Web template design ( Bootstrap & CSS )              | [Live](https://maduranga-dinesh.github.io/Boostrap-and-CSS-Grid-Simple-Web/)          |
 | Secrete generator ( Express js )                     | [Repository](https://github.com/Maduranga-Dinesh/Secret-generator-simple-express/tree/master) |
